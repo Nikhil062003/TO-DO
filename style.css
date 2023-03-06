@@ -1,0 +1,16 @@
+body{
+    background-image:url("https://salesdorado.com/wp-content/uploads/2022/08/kelly-sikkema-6aY-6B3MiZ4-unsplash-e1659878965251.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+  }
+  
+  #all{
+    margin-left:380px;
+    width:800px;
+    background-color:white;
+    /* font-size:35; */
+    opacity:0.8;
+    padding:20px;
+    text-align:center;
+    color:black;
+  }
